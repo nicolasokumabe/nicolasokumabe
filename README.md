@@ -1,12 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nicolasokumabe/nicolasokumabe/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+## 🌐 Hello, my name is Nicolas!
 
 <p align="center">With care, I'm here to make sure every detail is meticulously validated, contributing to our customers' success and satisfaction. ❤️🔍 <br><br> I am a <strong>Quality Assurance (QA) analyst</strong>, dedicated to ensuring product and service excellence through <strong>meticulous testing and rigorous quality</strong> control processes. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nicolasokumabe&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-nicolasokumabe.vercel.app/api/top-langs/?username=nicolasokumabe&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
