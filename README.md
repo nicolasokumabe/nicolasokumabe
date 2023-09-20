@@ -5,11 +5,13 @@
 
 <div>
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nicolasokumabe&theme=radical)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&theme=radical&layout=compact)
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasokumabe&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=8B0000&text_color=ff91a4&bg_color=110011" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&layout=compact&hide_border=true&title_color=228B22&text_color=ff91a4&bg_color=110011" />
+</div>
 
 &nbsp;
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasokumabe&bg_color=110011&color=8B0000&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasokumabe&bg_color=110011&color=228B22&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  </div>
@@ -74,6 +76,6 @@
 
 ![Snake animation](https://github.com/nicolasokumabe/nicolasokumabe/blob/output/github-contribution-grid-snake.svg)
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
 
 
