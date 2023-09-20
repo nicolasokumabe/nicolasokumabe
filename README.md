@@ -1,7 +1,7 @@
 
 ## 🌐 Hello, my name is Nicolas!
 
-<p align="center">With care, I'm here to make sure every detail is meticulously validated, contributing to our customers' success and satisfaction. 💜🔍 <br><br> I am a <strong>Quality Assurance (QA) analyst</strong>, dedicated to ensuring product and service excellence through <strong>meticulous testing and rigorous quality</strong> control processes. </p>&nbsp;
+<p align="center">With care, I'm here to make sure every detail is meticulously validated, contributing to our customers' success and satisfaction. 🔍 <br><br> I am a <strong>Quality Assurance (QA) analyst</strong>, dedicated to ensuring product and service excellence through <strong>meticulous testing and rigorous quality</strong> control processes. </p>&nbsp;
 
 <div>
  
