@@ -3,9 +3,11 @@
 
 <p align="center">With care, I'm here to make sure every detail is meticulously validated, contributing to our customers' success and satisfaction. ❤️🔍 <br><br> I am a <strong>Quality Assurance (QA) analyst</strong>, dedicated to ensuring product and service excellence through <strong>meticulous testing and rigorous quality</strong> control processes. </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nicolasokumabe&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-nicolasokumabe.vercel.app/api/top-langs/?username=nicolasokumabe&show_icons=true&theme=radical&layout=compact" />
+<div>
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nicolasokumabe&theme=radical)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&theme=radical&layout=compact)
+
  </div>
  
  &nbsp;
@@ -65,5 +67,9 @@
  
 
   
+
+![Snake animation](https://github.com/nicolasokumabe/nicolasokumabe/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
