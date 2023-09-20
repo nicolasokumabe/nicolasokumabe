@@ -9,7 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&theme=radical&layout=compact)
 
 &nbsp;
-&nbsp;
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasokumabe&bg_color=110011&color=8B0000&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
