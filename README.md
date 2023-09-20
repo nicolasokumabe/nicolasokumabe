@@ -6,7 +6,7 @@
 <div>
  
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasokumabe&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=8B0000&text_color=ff91a4&bg_color=110011" alt="Caroline Barbosa github stats" /> &nbsp;&nbsp;&nbsp;
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasokumabe&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=8B0000&text_color=ff91a4&bg_color=110011" alt="Caroline Barbosa github stats" /> &nbsp;&nbsp;
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&layout=compact&hide_border=true&title_color=228B22&text_color=ff91a4&bg_color=110011" />
 </div>
 
