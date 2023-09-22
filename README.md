@@ -62,7 +62,6 @@
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ## Contacts:
 
