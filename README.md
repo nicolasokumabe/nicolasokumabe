@@ -1,84 +1,34 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-## 🌐 Hello, my name is Nicolas!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Nicolas+Kumabe;Tenho+22+anos;Sou+Analista+de+Qualidade+de+Software;Em+Busca+do+Primeiro+Emprego!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<p align="center">With care, I'm here to make sure every detail is meticulously validated, contributing to our customers' success and satisfaction. 🔍 <br><br> I am a <strong>Quality Assurance (QA) analyst</strong>, dedicated to ensuring product and service excellence through <strong>meticulous testing and rigorous quality</strong> control processes. </p>&nbsp;
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasokumabe&bg_color=0d1117&color=1E90FF&line=1E90FF&point=B0E0E6&area=true&hide_border=true)](https://github.com/nicolasokumabe/github-readme-activity-graph)
 
-<div>
- 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasokumabe&show_icons=true&count_private=true&hide_border=true&title_color=FF7F50&icon_color=8A2BE2&text_color=EE82EE&bg_color=4B0082" alt="Nicolas Kumabe github stats" /> &nbsp;&nbsp;
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&layout=compact&hide_border=true&title_color=FF7F50&text_color=D8BFD8&bg_color=4B0082" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasokumabe&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasokumabe&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffffff&bg_color=0d1117" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasokumabe&bg_color=4B0082&color=FF7F50&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+&nbsp;
+<div align="center"> 
+<a href="https://github.com/nicolasokumabe?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a> &nbsp;
+<a href="https://www.linkedin.com/in/nicolasokumabe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+<a href = "mailto:contato.nicolas.kumabe@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </div>
  
- &nbsp;
- &nbsp;
-
-
-
-## My Skills
-
-#### Main Stack:
-
+ ### Main skills:
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)&nbsp;
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
-#### Cloud:
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-#### Service Provision:
-
-<a href="https://br.fiverr.com/nicolasokumabe" target="_blank"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"  target="_blank"></a> 
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:contato.nicolas.kumabe@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nicolasokumabe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-
-![Snake animation](https://github.com/nicolasokumabe/nicolasokumabe/blob/output/github-contribution-grid-snake.svg)
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
 
 
+### Studying in this moment:
+![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
