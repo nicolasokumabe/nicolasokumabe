@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🖖 Olá, meu nome é <strong>Nicolas Kumabe!</strong>
+## 👋 Olá, meu nome é <strong>Nicolas Kumabe!</strong>
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
 - 💻 Testando aplicações Web e API
@@ -42,8 +42,12 @@
 ### 📱 Minhas redes:
 
 <p align="left">
-<a href="https://github.com/stars/nicolasokumabe/lists/portf%C3%B3lio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"</a> &nbsp;
-<a href="https://www.linkedin.com/in/nicolasokumabe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
-<a href = "mailto:contato.nicolas.kumabe@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</p>
+  <a href="https://www.linkedin.com/in/nicolasokumabe/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
+  <a href="https://w.app/nicolasokumabe" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
+
+  <a href="mailto:contato.nicolas.kumabe@gmail.com" title="gitbuh">
+  <img src="https://img.shields.io/badge/-Gmail-DF0174?style=flat-square&labelColor=DF0174&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
+</p>
