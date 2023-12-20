@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/nicolasokumabe/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
-  <a href="https://api.whatsapp.com/send?phone=55011934679547" title="WhatsApp">
+  <a href="https://wa.me/55011934679547?text=Ol%C3%A1,%20quero%20falar%20com%20voc%C3%AA%20%F0%9F%91%8B" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
 
   <a href="mailto:contato.nicolas.kumabe@gmail.com" title="gitbuh">
