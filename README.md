@@ -3,7 +3,6 @@
 ## 👋 Olá, meu nome é <strong>Nicolas Kumabe!</strong>
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
-
 - 💻 Testando aplicações Web e API
 - 🎓 Formação em **Quality Assurance (QA)** pela <a href="https://www.linkedin.com/company/qa-ninja/?originalSubdomain=br">QANinja</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://qaxperience.com/pt">QAXperience</a>.
