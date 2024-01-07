@@ -6,7 +6,7 @@
 - 💻 Testando aplicações Web, API e Mobile
 - 🎓 Formação em **Quality Assurance (QA)** pela <a href="https://www.linkedin.com/company/qa-ninja/?originalSubdomain=br">QANinja</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://qaxperience.com/pt">QAXperience</a>.
-- 💼 Trabalhando voluntariamente como **QA** para a <a href="https://www.samsung.com/br/">Samsung</a>
+- 💼 Trabalhos voluntários como **QA**: <a href="https://www.samsung.com/br/">Samsung</a> e <a href="https://www.amazon.com.br/">Amazon</a>
 
 ## 🚀 Minhas Skills
 
