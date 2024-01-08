@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 👋 Olá, meu nome é <strong>Nicolas Kumabe!</strong>
-<h3> Sou Analista de Qualidade de Software</h3>
+<h3> Sou Analista de Qualidade de Software/QA</h3>
 
 - 💻 Testando aplicações Web, API e Mobile
 - 🎓 Formação em **Quality Assurance (QA)** pela <a href="https://www.linkedin.com/company/qa-ninja/?originalSubdomain=br">QANinja</a>.
