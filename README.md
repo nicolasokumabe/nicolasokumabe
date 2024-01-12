@@ -11,9 +11,9 @@
 ## 🚀 Minhas Skills
 
 <p align="left">
-	
-![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+
 ![cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;
 ![Cucumber](https://img.shields.io/badge/Cucumber-000000?style=for-the-badge&logo=cucumber&logoColor=white)&nbsp;
