@@ -4,7 +4,7 @@
 <h3> Sou Analista de Qualidade de Software / QA </h3>
 
 - 💻 Testando aplicações Web, API e Mobile
-- 👔 **Quality Assurance Engineer** na <a href="https://www.linkedin.com/company/4intelligence-ai/mycompany/">4intelligence</a>
+- 👔 **Quality Assurance Engineer**
 - 🎓 Formação em **QA** pela <a href="https://www.linkedin.com/company/qa-ninja/?originalSubdomain=br">QANinja</a>
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://qaxperience.com/pt">QAXperience</a>
 - 💼 Trabalhos voluntários como **QA**: <a href="https://www.samsung.com/br/">Samsung</a> e <a href="https://www.amazon.com.br/">Amazon</a>
